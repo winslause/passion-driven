@@ -556,9 +556,11 @@ footer a {
         padding: 20px 0;
         justify-content: space-evenly;
     }
-    .nav-brand img {
-        display: none;
-    }
+    /* .nav-brand img {
+         display: none; 
+        width: 100px;
+        height: 100px;
+    } */
     .rows {
         display: block;
     }
