@@ -556,11 +556,11 @@ footer a {
         padding: 20px 0;
         justify-content: space-evenly;
     }
-    /* .nav-brand img {
+     .nav-brand img {
          display: none; 
-        width: 100px;
-        height: 100px;
-    } */
+        width: 20px;
+        height: 20px;
+    } 
     .rows {
         display: block;
     }
